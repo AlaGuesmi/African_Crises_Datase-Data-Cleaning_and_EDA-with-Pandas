@@ -1,6 +1,6 @@
 # African_Crises_Datase-Data-Cleaning-EDA-with-Pandas
 
-This project focuses on preprocessing and exploratory data analysis (EDA) using the African Crises dataset. The objective is to demonstrate fundamental data cleaning and transformation techniques using Pandas and imbalanced-learn.
+This project focuses on preprocessing and exploratory data analysis (EDA) using the **African Crises dataset**. The objective is to demonstrate fundamental data cleaning and transformation techniques using Pandas.
 
 📊 **Dataset Overview**
 
